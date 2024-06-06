@@ -4,7 +4,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-#define DEFAULT_IP "192.168.86.129"// 服务器ip
+#define DEFAULT_IP "192.168.86.129"// ip
 #define DEFAULT_PORT 56789 // 服务器监听端口
 #define buffer_len 124     //缓存区大小
 
